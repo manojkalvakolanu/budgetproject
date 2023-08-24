@@ -1,0 +1,103 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Aditi Rao Manupadi:mailto:aditirao.manupadi@braneenterprises.c
+ om
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=saraswathi
+ vuduta@gmail.com:mailto:saraswathivuduta@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Charan Kum
+ ar Kora:mailto:charan.kora@braneenterprises.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Swathi K:m
+ ailto:swathi.k@braneenterprises.com
+ATTACH:CID:642AF88C0E43B9429745E06E9B41E19D@INDPRD01.PROD.OUTLOOK.COM
+DESCRIPTION;LANGUAGE=en-US:Hi Leader\,\n\n\n\nBlocking your calendar for Fi
+ rst round of discussion.\n\n\n\nHi Candidate\,\n\n\nPlease join five minut
+ es before schedule. Wishing you the best!\n_______________________________
+ _________________________________________________\nMicrosoft Teams meeting
+ \nJoin on your computer\, mobile app or room device\nClick here to join th
+ e meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDA3YTFjY
+ zMtNjcxMi00YWE3LWIxNTMtMzMwNDljOTk5Njlh%40thread.v2/0?context=%7b%22Tid%22
+ %3a%2251973d14-5386-4141-af3c-e75bbfe287fa%22%2c%22Oid%22%3a%2267bce930-0b
+ 4f-46e5-ad20-2a3177c8fe10%22%7d>\nMeeting ID: 428 788 058 063\nPasscode: K
+ Lih45\nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/down
+ load-app> | Join on the web<https://www.microsoft.com/microsoft-teams/join
+ -a-meeting>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting options
+ <https://teams.microsoft.com/meetingOptions/?organizerId=67bce930-0b4f-46e
+ 5-ad20-2a3177c8fe10&tenantId=51973d14-5386-4141-af3c-e75bbfe287fa&threadId
+ =19_meeting_MDA3YTFjYzMtNjcxMi00YWE3LWIxNTMtMzMwNDljOTk5Njlh@thread.v2&mes
+ sageId=0&language=en-US>\n________________________________________________
+ ________________________________\n\nThanks & Regards\n\nAditi Rao Manupadi
+ \nAssociate Solution Leader- Leadership\nMobile: +91 9177294639\nwww.nslhu
+ b.com<http://www.nslhub.com/>\n\n\n\n*****************CONFIDENTIALITY NOTI
+ CE************************* The contents of this email message\, and any a
+ ttachments therein\, are intended solely for the addressee(s). They may co
+ ntain confidential and/or privileged information and may be legally protec
+ ted from disclosure. If you are not the intended recipient of this message
+  or their agent\, or if this message has been addressed to you in error\, 
+ please immediately alert the sender by replying to the email and then dele
+ te this message and any attachments. If you are not the intended recipient
+ \, you are hereby notified that any use\, dissemination\, copying\, or sto
+ rage of this message or its attachments\, or taking any action on the basi
+ s of the contents of this information\, is strictly prohibited. The integr
+ ity and security of this message cannot be guaranteed on the internet. The
+  organization or the sender does not accept any liability for any damages 
+ caused by errors\, omissions or virus transmission connected to the conten
+ ts of this message.\n
+UID:040000008200E00074C5B7101A82E00800000000C00E3CE200D2D901000000000000000
+ 010000000E7EFCC43C2E4574BA2BAC0518EC8F2BE
+SUMMARY;LANGUAGE=en-US:Brane Enterprises-Sai Saraswathi Vuduta - L1- PaaS
+DTSTART;TZID=India Standard Time:20230821T150000
+DTEND;TZID=India Standard Time:20230821T160000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20230818T125414Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:-1642952729
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_MDA3YTFjYzMtNjcxMi00YWE3LWIxNTMtMzMwNDljOTk5Njlh%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%2251973d14-5386-4141-af3c-e75bbfe287fa%22%2c%22O
+ id%22%3a%2267bce930-0b4f-46e5-ad20-2a3177c8fe10%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/51973d14-5386-4141-af3c-e75bbfe287fa/67bce930-0b4f-46e5-ad20-2
+ a3177c8fe10/19_meeting_MDA3YTFjYzMtNjcxMi00YWE3LWIxNTMtMzMwNDljOTk5Njlh@th
+ read.v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_MDA3YTFjYzMtNjcxMi00YWE
+ 3LWIxNTMtMzMwNDljOTk5Njlh@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Loca
+ tionUri" : "" } ]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
